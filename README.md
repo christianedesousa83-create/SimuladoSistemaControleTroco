@@ -1,4 +1,4 @@
-# Atividade Prática: Sistema de Controle de Troco - Padaria do Sr. Paiva
+# Simulado: Sistema de Controle de Troco - <br> Padaria do Sr. Paiva
 
 Este repositório contém o enunciado e a resolução da atividade prática de programação em Java, focada em lógica de programação, estruturas de controle e cálculos aritméticos.
 
